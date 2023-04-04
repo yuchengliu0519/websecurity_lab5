@@ -11,7 +11,7 @@ export function RootIndex() {
     return (
         <div id="DIV_ROOT">
             <h1>劉育誠</h1>
-            <img src="\src\pages\pic1.jpg" width="200" height="200" position="absolute" left="0px" top="200px"></img>
+            <img src="./src/pages/pic1.jpg" width="200" height="200" position="absolute" left="0px" top="200px"></img>
             <div id="DIV_RIGHT">
                 <h3>關於學業</h3>
                 <ul>
